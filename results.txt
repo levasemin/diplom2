@@ -1,0 +1,2 @@
+Tbank. В результате работы разработано решение по предложению одежды пользователю согласно запросам. 
+https://gitlab.com/lev.cemin/it-purple/-/tree/main?ref_type=heads
